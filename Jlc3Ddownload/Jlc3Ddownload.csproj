@@ -8,6 +8,7 @@
     <UseWPF>true</UseWPF>
 	<ApplicationIcon>Resources\icon.ico</ApplicationIcon>
 	<ApplicationManifest>app.manifest</ApplicationManifest>
+	<Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
