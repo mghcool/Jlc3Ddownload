@@ -7,7 +7,7 @@
     xmlns:local="clr-namespace:Jlc3Ddownload"
     mc:Ignorable="d"
     Icon="/Resources/icon.ico"
-    Title="嘉立创模型下载器"
+    Title="嘉立创3D模型下载器"
     Height="330"
     Width="500"
     WindowStartupLocation="CenterScreen"
